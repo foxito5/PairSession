@@ -1,0 +1,16 @@
+/workspace/PairSession/bin/Debug/net5.0/PairSession
+/workspace/PairSession/bin/Debug/net5.0/PairSession.deps.json
+/workspace/PairSession/bin/Debug/net5.0/PairSession.runtimeconfig.json
+/workspace/PairSession/bin/Debug/net5.0/PairSession.runtimeconfig.dev.json
+/workspace/PairSession/bin/Debug/net5.0/PairSession.dll
+/workspace/PairSession/bin/Debug/net5.0/ref/PairSession.dll
+/workspace/PairSession/bin/Debug/net5.0/PairSession.pdb
+/workspace/PairSession/obj/Debug/net5.0/PairSession.csprojAssemblyReference.cache
+/workspace/PairSession/obj/Debug/net5.0/PairSession.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/PairSession/obj/Debug/net5.0/PairSession.AssemblyInfoInputs.cache
+/workspace/PairSession/obj/Debug/net5.0/PairSession.AssemblyInfo.cs
+/workspace/PairSession/obj/Debug/net5.0/PairSession.csproj.CoreCompileInputs.cache
+/workspace/PairSession/obj/Debug/net5.0/PairSession.dll
+/workspace/PairSession/obj/Debug/net5.0/ref/PairSession.dll
+/workspace/PairSession/obj/Debug/net5.0/PairSession.pdb
+/workspace/PairSession/obj/Debug/net5.0/PairSession.genruntimeconfig.cache
